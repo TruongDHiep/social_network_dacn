@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Truong Hiep\\source\\repos\\SocialNetwork\\SocialNetwork.Server\\..\\socialnetwork.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
